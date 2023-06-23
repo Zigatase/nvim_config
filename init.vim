@@ -87,6 +87,7 @@ call plug#end()
 " --- Bind ---
 nmap <F8> :TagbarToggle<CR>
 nnoremap <C-t> :NERDTreeToggle<CR>
+"map <F5> :w<CR>:!python %<CR>"
 
 
 " --- Leader bind to space ---
