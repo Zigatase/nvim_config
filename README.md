@@ -2,5 +2,5 @@
 
 LSP
 -------
-  Python (pyright)
-  Rust (rust-analyzer)
+    Python (pyright)
+    Rust (rust-analyzer)
