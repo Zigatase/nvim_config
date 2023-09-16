@@ -6,4 +6,5 @@ LSP
 
 ----
 Install
-    Pyright -> https://github.com/microsoft/pyright/blob/main/docs/installation.md
+
+    - Pyright -> https://github.com/microsoft/pyright/blob/main/docs/installation.md
