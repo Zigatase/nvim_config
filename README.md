@@ -13,5 +13,5 @@ Install
 ---
 Config
 
-    Windows: ~/AppData/Local/nvim.
+    Windows: ~/AppData/Local/nvim
     Linux: ~/.config/nvim/init.vim
