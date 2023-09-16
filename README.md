@@ -5,4 +5,5 @@ LSP
 - Rust (rust-analyzer)
 
 ----
+Install
     Pyright -> https://github.com/microsoft/pyright/blob/main/docs/installation.md
